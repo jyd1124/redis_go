@@ -1,0 +1,25 @@
+[INFO][server.go:38] 2023/01/06 17:48:07 start listen
+[INFO][server.go:64] 2023/01/06 17:48:47 accepted link
+[INFO][echo_database.go:21] 2023/01/06 17:50:12 EchoDatabase AfterClientClose
+[INFO][handler.go:56] 2023/01/06 17:50:12 connection closed: 172.29.224.1:2639
+[INFO][server.go:64] 2023/01/06 17:50:36 accepted link
+[INFO][server.go:38] 2023/01/06 17:53:49 start listen
+[INFO][server.go:64] 2023/01/06 17:53:55 accepted link
+[ERROR][handler.go:75] 2023/01/06 17:54:00 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:54:00 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:54:00 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:54:51 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:54:51 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:54:51 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:55:50 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:55:50 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:55:55 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:55:55 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:56:07 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:56:07 require multi bulk reply
+[ERROR][handler.go:75] 2023/01/06 17:56:07 require multi bulk reply
+[INFO][echo_database.go:21] 2023/01/06 17:56:21 EchoDatabase AfterClientClose
+[INFO][handler.go:56] 2023/01/06 17:56:21 connection closed: 172.29.224.1:2675
+[INFO][server.go:47] 2023/01/06 17:56:31 shutting down
+[INFO][handler.go:89] 2023/01/06 17:56:31 handler shutting down
+[INFO][echo_database.go:25] 2023/01/06 17:56:31 EchoDatabase Close

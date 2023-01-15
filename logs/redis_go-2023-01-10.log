@@ -1,0 +1,131 @@
+[INFO][server.go:38] 2023/01/10 12:36:38 start listen
+[INFO][server.go:64] 2023/01/10 12:37:55 accepted link
+[INFO][server.go:47] 2023/01/10 12:48:22 shutting down
+[INFO][handler.go:90] 2023/01/10 12:48:22 handler shutting down
+[INFO][handler.go:57] 2023/01/10 12:48:22 connection closed: 172.29.224.1:1683
+[INFO][handler.go:90] 2023/01/10 12:48:22 handler shutting down
+[INFO][server.go:38] 2023/01/10 12:48:24 start listen
+[INFO][server.go:64] 2023/01/10 12:48:27 accepted link
+[ERROR][handler.go:76] 2023/01/10 12:50:05 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:50:05 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:50:05 require multi bulk reply
+[INFO][server.go:47] 2023/01/10 12:50:21 shutting down
+[INFO][handler.go:90] 2023/01/10 12:50:21 handler shutting down
+[INFO][handler.go:57] 2023/01/10 12:50:21 connection closed: 172.29.224.1:1792
+[INFO][handler.go:90] 2023/01/10 12:50:21 handler shutting down
+[INFO][server.go:38] 2023/01/10 12:50:21 start listen
+[INFO][server.go:64] 2023/01/10 12:50:25 accepted link
+[ERROR][handler.go:76] 2023/01/10 12:50:27 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:50:27 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:50:27 require multi bulk reply
+[INFO][server.go:47] 2023/01/10 12:51:19 shutting down
+[INFO][handler.go:90] 2023/01/10 12:51:19 handler shutting down
+[INFO][handler.go:57] 2023/01/10 12:51:19 connection closed: 172.29.224.1:1803
+[INFO][handler.go:90] 2023/01/10 12:51:19 handler shutting down
+[INFO][server.go:38] 2023/01/10 12:51:25 start listen
+[INFO][server.go:64] 2023/01/10 12:51:25 accepted link
+[ERROR][handler.go:76] 2023/01/10 12:51:29 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:51:29 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:51:29 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:51:31 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:51:31 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:51:31 require multi bulk reply
+[INFO][server.go:47] 2023/01/10 12:53:51 shutting down
+[INFO][handler.go:90] 2023/01/10 12:53:51 handler shutting down
+[INFO][handler.go:57] 2023/01/10 12:53:51 connection closed: 172.29.224.1:1811
+[INFO][handler.go:90] 2023/01/10 12:53:51 handler shutting down
+[INFO][server.go:38] 2023/01/10 12:53:58 start listen
+[INFO][server.go:64] 2023/01/10 12:54:01 accepted link
+[INFO][handler.go:57] 2023/01/10 12:54:11 connection closed: 172.29.224.1:1832
+[INFO][server.go:47] 2023/01/10 12:54:13 shutting down
+[INFO][handler.go:90] 2023/01/10 12:54:13 handler shutting down
+[INFO][server.go:38] 2023/01/10 12:54:42 start listen
+[INFO][server.go:64] 2023/01/10 12:54:58 accepted link
+[ERROR][handler.go:76] 2023/01/10 12:56:52 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:56:52 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:56:52 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:59:13 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:59:13 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:59:13 require multi bulk reply
+[INFO][server.go:47] 2023/01/10 12:59:27 shutting down
+[INFO][handler.go:90] 2023/01/10 12:59:27 handler shutting down
+[INFO][handler.go:57] 2023/01/10 12:59:27 connection closed: 172.29.224.1:1845
+[INFO][handler.go:90] 2023/01/10 12:59:27 handler shutting down
+[INFO][server.go:38] 2023/01/10 12:59:29 start listen
+[INFO][server.go:64] 2023/01/10 12:59:32 accepted link
+[ERROR][handler.go:76] 2023/01/10 12:59:57 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:59:57 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 12:59:57 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 13:00:16 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 13:00:16 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 13:00:59 require multi bulk reply
+[ERROR][handler.go:76] 2023/01/10 13:00:59 require multi bulk reply
+[INFO][server.go:47] 2023/01/10 13:05:31 shutting down
+[INFO][handler.go:90] 2023/01/10 13:05:31 handler shutting down
+[INFO][handler.go:57] 2023/01/10 13:05:31 connection closed: 172.29.224.1:1873
+[INFO][handler.go:90] 2023/01/10 13:05:31 handler shutting down
+[INFO][server.go:38] 2023/01/10 15:34:57 start listen
+[INFO][server.go:64] 2023/01/10 15:35:15 accepted link
+[ERROR][parser.go:49] 2023/01/10 15:36:30 goroutine 10 [running]:
+runtime/debug.Stack()
+	C:/Environment/GoSDK/go1.17.10/src/runtime/debug/stack.go:24 +0x65
+redis_go/resp/parser.parse0.func1()
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:49 +0x2a
+panic({0x700460, 0xc000206018})
+	C:/Environment/GoSDK/go1.17.10/src/runtime/panic.go:1038 +0x215
+redis_go/resp/parser.readLine(0xc000202010, 0xc00013bf10)
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:153 +0x257
+redis_go/resp/parser.parse0({0x15d4ac7b108, 0xc000092000}, 0x0)
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:58 +0x216
+created by redis_go/resp/parser.ParseStream
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:42 +0x9d
+
+[INFO][server.go:47] 2023/01/10 15:37:09 shutting down
+[INFO][handler.go:90] 2023/01/10 15:37:09 handler shutting down
+[INFO][server.go:38] 2023/01/10 15:37:14 start listen
+[INFO][server.go:64] 2023/01/10 15:37:21 accepted link
+[INFO][server.go:47] 2023/01/10 15:38:18 shutting down
+[INFO][handler.go:90] 2023/01/10 15:38:18 handler shutting down
+[INFO][handler.go:57] 2023/01/10 15:38:18 connection closed: 172.29.224.1:2929
+[INFO][handler.go:90] 2023/01/10 15:38:18 handler shutting down
+[INFO][server.go:38] 2023/01/10 15:38:27 start listen
+[INFO][server.go:64] 2023/01/10 15:38:28 accepted link
+[INFO][handler.go:57] 2023/01/10 15:38:34 connection closed: 172.29.224.1:2941
+[INFO][server.go:64] 2023/01/10 15:38:35 accepted link
+[ERROR][parser.go:49] 2023/01/10 15:40:18 goroutine 24 [running]:
+runtime/debug.Stack()
+	C:/Environment/GoSDK/go1.17.10/src/runtime/debug/stack.go:24 +0x65
+redis_go/resp/parser.parse0.func1()
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:49 +0x2a
+panic({0x100460, 0xc00000c168})
+	C:/Environment/GoSDK/go1.17.10/src/runtime/panic.go:1038 +0x215
+redis_go/resp/parser.readLine(0xc00000a064, 0xc0001a7f10)
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:153 +0x257
+redis_go/resp/parser.parse0({0x2c8f3b80008, 0xc0000ce038}, 0x0)
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:58 +0x216
+created by redis_go/resp/parser.ParseStream
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:42 +0x9d
+
+[INFO][server.go:47] 2023/01/10 15:40:42 shutting down
+[INFO][handler.go:90] 2023/01/10 15:40:42 handler shutting down
+[INFO][server.go:38] 2023/01/10 15:40:48 start listen
+[INFO][server.go:47] 2023/01/10 15:40:59 shutting down
+[INFO][handler.go:90] 2023/01/10 15:40:59 handler shutting down
+[INFO][server.go:38] 2023/01/10 15:41:04 start listen
+[INFO][server.go:64] 2023/01/10 15:41:10 accepted link
+[ERROR][parser.go:49] 2023/01/10 15:44:12 goroutine 18 [running]:
+runtime/debug.Stack()
+	C:/Environment/GoSDK/go1.17.10/src/runtime/debug/stack.go:24 +0x65
+redis_go/resp/parser.parse0.func1()
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:49 +0x2a
+panic({0x730460, 0xc00018e018})
+	C:/Environment/GoSDK/go1.17.10/src/runtime/panic.go:1038 +0x215
+redis_go/resp/parser.readLine(0xc000184190, 0xc0000b5f10)
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:153 +0x257
+redis_go/resp/parser.parse0({0x1fb77850008, 0xc000006048}, 0x0)
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:58 +0x216
+created by redis_go/resp/parser.ParseStream
+	C:/Users/jyd1124/Desktop/project_jyd/redis_go/resp/parser/parser.go:42 +0x9d
+
+[INFO][server.go:47] 2023/01/10 15:44:53 shutting down
+[INFO][handler.go:90] 2023/01/10 15:44:53 handler shutting down

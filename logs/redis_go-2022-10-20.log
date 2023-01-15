@@ -1,0 +1,69 @@
+[INFO][server.go:38] 2022/10/20 09:33:16 start listen
+[INFO][server.go:64] 2022/10/20 09:35:00 accepted link
+[INFO][server.go:64] 2022/10/20 09:35:01 accepted link
+[WARN][echo.go:60] 2022/10/20 09:35:30 read tcp 127.0.0.1:6379->127.0.0.1:8207: wsarecv: An existing connection was forcibly closed by the remote host.
+[INFO][server.go:64] 2022/10/20 09:35:31 accepted link
+[WARN][echo.go:60] 2022/10/20 09:35:32 read tcp 127.0.0.1:6379->127.0.0.1:8206: wsarecv: An existing connection was forcibly closed by the remote host.
+[INFO][server.go:64] 2022/10/20 09:35:33 accepted link
+[WARN][echo.go:60] 2022/10/20 09:36:15 read tcp 127.0.0.1:6379->127.0.0.1:8208: wsarecv: An existing connection was forcibly closed by the remote host.
+[WARN][echo.go:60] 2022/10/20 09:36:16 read tcp 127.0.0.1:6379->127.0.0.1:8209: wsarecv: An existing connection was forcibly closed by the remote host.
+[INFO][server.go:47] 2022/10/20 09:36:17 shutting down
+[INFO][echo.go:73] 2022/10/20 09:36:17 handler shutting down
+[INFO][echo.go:73] 2022/10/20 09:36:17 handler shutting down
+[INFO][server.go:38] 2022/10/20 09:36:18 start listen
+[INFO][server.go:64] 2022/10/20 09:36:21 accepted link
+[INFO][server.go:64] 2022/10/20 09:36:23 accepted link
+[INFO][server.go:47] 2022/10/20 09:43:11 shutting down
+[INFO][echo.go:73] 2022/10/20 09:43:11 handler shutting down
+[WARN][echo.go:60] 2022/10/20 09:43:11 read tcp 127.0.0.1:6379->127.0.0.1:8215: use of closed network connection
+[WARN][echo.go:60] 2022/10/20 09:43:11 read tcp 127.0.0.1:6379->127.0.0.1:8216: use of closed network connection
+[INFO][echo.go:73] 2022/10/20 09:43:11 handler shutting down
+[INFO][server.go:38] 2022/10/20 09:43:11 start listen
+[INFO][server.go:47] 2022/10/20 09:43:14 shutting down
+[INFO][echo.go:73] 2022/10/20 09:43:14 handler shutting down
+[INFO][server.go:38] 2022/10/20 09:43:18 start listen
+[INFO][server.go:64] 2022/10/20 09:43:22 accepted link
+[INFO][server.go:38] 2022/10/20 09:43:41 start listen
+[INFO][server.go:38] 2022/10/20 09:44:01 start listen
+[INFO][server.go:64] 2022/10/20 09:44:27 accepted link
+[INFO][server.go:38] 2022/10/20 09:45:22 start listen
+[INFO][server.go:64] 2022/10/20 09:45:51 accepted link
+[WARN][echo.go:60] 2022/10/20 09:48:06 read tcp 127.0.0.1:6379->127.0.0.1:8293: wsarecv: An existing connection was forcibly closed by the remote host.
+[INFO][server.go:38] 2022/10/20 09:48:08 start listen
+[INFO][server.go:38] 2022/10/20 09:48:12 start listen
+[INFO][server.go:64] 2022/10/20 09:48:14 accepted link
+[INFO][server.go:38] 2022/10/20 09:48:45 start listen
+[INFO][server.go:64] 2022/10/20 09:48:48 accepted link
+[INFO][server.go:47] 2022/10/20 09:49:13 shutting down
+[INFO][echo.go:73] 2022/10/20 09:49:13 handler shutting down
+[WARN][echo.go:60] 2022/10/20 09:49:13 read tcp 127.0.0.1:6379->127.0.0.1:8320: use of closed network connection
+[INFO][echo.go:73] 2022/10/20 09:49:13 handler shutting down
+[INFO][server.go:38] 2022/10/20 09:49:14 start listen
+[INFO][server.go:64] 2022/10/20 09:49:18 accepted link
+[WARN][echo.go:62] 2022/10/20 09:50:33 read tcp 127.0.0.1:6379->127.0.0.1:8327: wsarecv: An existing connection was forcibly closed by the remote host.
+[INFO][server.go:47] 2022/10/20 09:52:30 shutting down
+[INFO][echo.go:75] 2022/10/20 09:52:30 handler shutting down
+[INFO][server.go:38] 2022/10/20 09:52:31 start listen
+[INFO][server.go:64] 2022/10/20 09:52:44 accepted link
+[WARN][echo.go:62] 2022/10/20 09:52:54 read tcp 127.0.0.1:6379->127.0.0.1:8347: wsarecv: An existing connection was forcibly closed by the remote host.
+[INFO][server.go:47] 2022/10/20 09:53:15 shutting down
+[INFO][echo.go:75] 2022/10/20 09:53:15 handler shutting down
+[INFO][echo.go:75] 2022/10/20 09:53:15 handler shutting down
+[INFO][server.go:38] 2022/10/20 09:53:16 start listen
+[INFO][server.go:64] 2022/10/20 09:53:23 accepted link
+[INFO][server.go:47] 2022/10/20 09:55:16 shutting down
+[INFO][echo.go:75] 2022/10/20 09:55:16 handler shutting down
+[WARN][echo.go:62] 2022/10/20 09:55:16 read tcp 172.29.224.1:6379->172.29.224.1:8371: use of closed network connection
+[INFO][echo.go:75] 2022/10/20 09:55:16 handler shutting down
+[INFO][server.go:38] 2022/10/20 09:55:24 start listen
+[INFO][server.go:64] 2022/10/20 09:55:26 accepted link
+[INFO][echo.go:57] 2022/10/20 09:55:31 Connecting close
+[INFO][server.go:47] 2022/10/20 09:55:33 shutting down
+[INFO][echo.go:73] 2022/10/20 09:55:33 handler shutting down
+[INFO][server.go:38] 2022/10/20 09:55:34 start listen
+[INFO][server.go:64] 2022/10/20 09:55:38 accepted link
+[INFO][server.go:64] 2022/10/20 09:55:42 accepted link
+[INFO][echo.go:57] 2022/10/20 09:58:38 Connecting close
+[INFO][echo.go:57] 2022/10/20 09:58:39 Connecting close
+[INFO][server.go:47] 2022/10/20 09:58:42 shutting down
+[INFO][echo.go:73] 2022/10/20 09:58:42 handler shutting down
